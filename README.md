@@ -1,0 +1,1 @@
+asterisk-scrip-install
