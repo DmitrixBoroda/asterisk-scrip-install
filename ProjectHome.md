@@ -1,0 +1,1 @@
+Скрипт автоматической установки Asterisk Duhdi chan\_dongle для freebsd centos ubunta
